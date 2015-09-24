@@ -1,0 +1,7 @@
+*******************************************PROCSIM PROJECT README*****************************************
+
+- Makefile is default no change, no new file is added to the project.
+- The report contains the results as well as code description.
+- The python script was run on my system, please change the directory refernce before runnign it.
+- Code has enough comments, I don't think much description is needed hence. Full description is provided in report.
+- logs.tar.gz contain script results.
